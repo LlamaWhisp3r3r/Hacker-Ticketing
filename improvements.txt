@@ -1,0 +1,13 @@
+Make an 'attack tree'. Or something to know what you do and when you did it. (Can add what port they are looking at or what tey are doing)
+Make the priority scaleable
+The person can be able to edit the file form the text entry
+Make it look prettier
+Have the timer be minutes and not seconds
+Have the timer make a noise/play songs
+Make it an option to choose what you want to do during your timer time
+Make a taks list
+Make all the entries dynamically change with the size of the screen
+Make the file title and description more meaningful
+Be able to read project in
+Be able to take a screenshot
+Make an editable naming scheme for screenshots
