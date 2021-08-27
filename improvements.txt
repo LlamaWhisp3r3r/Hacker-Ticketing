@@ -11,3 +11,5 @@ Make the file title and description more meaningful
 Be able to read project in
 Be able to take a screenshot
 Make an editable naming scheme for screenshots
+Make it a project where you can choose what you want to ticket (Not just a ticket). Example, (Create a Ticket [AKA. the text file that holds everything about the box], Take a screenshot, do scans and hold results at desired location, etc..)
+Make the screenshots a drag and drop type of selection
