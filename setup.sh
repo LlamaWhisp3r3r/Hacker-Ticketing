@@ -1,6 +1,9 @@
 !#/bin/bash
 
-cd ~
+echo "What is the box's name? "
+read boxName
+mkdir $boxName
+cd $boxName
 mkdir Documentation
 mkdir Documentation/AttackTree
 mkdir Documentation/Boxes
@@ -16,7 +19,6 @@ mkdir Exploits
 mkdir Exploits/Website
 mkdir Exploits/Kernal
 mkdir Exploits/Service
-mkdir VPN
 sudo apt update
 curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
 python2 get-pip.py
